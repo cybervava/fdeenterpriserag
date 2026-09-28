@@ -1,0 +1,24 @@
+NovaTech Industrial Solutions
+NovaSense X700 Technical Specification
+
+Product: NovaSense X700
+
+The NovaSense X700 is designed for enterprise-scale
+monitoring of critical industrial assets.
+
+The platform provides advanced condition monitoring,
+high-frequency data acquisition and edge analytics for
+large industrial deployments.
+
+Operating temperature range: -30°C to 100°C.
+Maximum supported humidity: 95%.
+Maximum vibration sampling rate: 30 kHz.
+
+Communication protocols:
+- OPC-UA
+- Modbus
+- MQTT
+- Ethernet
+
+The X700 is intended for organizations requiring
+large-scale monitoring of critical equipment.

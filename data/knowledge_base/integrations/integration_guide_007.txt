@@ -1,0 +1,19 @@
+NovaTech Integration Guide 7
+
+Integration Target: Industrial MQTT Broker
+
+NovaTech industrial monitoring products can exchange
+equipment information with Industrial MQTT Broker using MQTT
+where supported by the selected NovaSense product.
+
+Typical integration information includes equipment
+temperature, vibration measurements, equipment-health
+information and monitoring events.
+
+For advanced predictive-maintenance deployments,
+NovaSense X500 supports OPC-UA, Modbus TCP, MQTT and
+Ethernet connectivity.
+
+Integration architecture should be validated against
+the customer's industrial network and security
+requirements before production deployment.

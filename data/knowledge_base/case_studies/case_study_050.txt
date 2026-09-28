@@ -1,0 +1,21 @@
+NovaTech Customer Case Study 50
+
+Industry: Energy
+
+A customer operating in the Energy sector wanted to
+improve visibility into the condition of its pumps.
+
+NovaTech industrial monitoring technology was deployed
+to collect equipment temperature, vibration and health
+information.
+
+The monitoring solution allowed maintenance teams to
+identify abnormal operating patterns earlier and improve
+maintenance planning.
+
+Predictive maintenance information helped engineering
+teams reduce dependence on purely reactive maintenance.
+
+This case demonstrates how industrial sensor information
+can support equipment reliability and maintenance
+decision-making.

@@ -1,0 +1,19 @@
+NovaTech Integration Guide 31
+
+Integration Target: Siemens SCADA
+
+NovaTech industrial monitoring products can exchange
+equipment information with Siemens SCADA using OPC-UA
+where supported by the selected NovaSense product.
+
+Typical integration information includes equipment
+temperature, vibration measurements, equipment-health
+information and monitoring events.
+
+For advanced predictive-maintenance deployments,
+NovaSense X500 supports OPC-UA, Modbus TCP, MQTT and
+Ethernet connectivity.
+
+Integration architecture should be validated against
+the customer's industrial network and security
+requirements before production deployment.

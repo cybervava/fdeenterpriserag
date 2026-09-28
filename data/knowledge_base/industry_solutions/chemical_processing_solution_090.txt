@@ -1,0 +1,18 @@
+NovaTech Chemical Processing Solution 90
+
+NovaTech provides industrial equipment-monitoring
+solutions for organizations operating in
+Chemical Processing.
+
+Typical deployments monitor equipment temperature,
+vibration and asset-health information.
+
+Predictive maintenance can help maintenance teams
+identify abnormal equipment behavior before a
+significant failure occurs.
+
+The NovaSense X500 is designed for advanced predictive
+maintenance of motors, pumps, compressors and other
+rotating industrial equipment.
+Sensor information can be integrated into broader
+industrial monitoring and maintenance workflows.

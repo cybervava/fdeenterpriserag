@@ -1,0 +1,17 @@
+NovaTech Industrial Solutions
+NovaSense X100 Technical Specification
+
+Product: NovaSense X100
+
+The NovaSense X100 is designed primarily for environmental
+temperature monitoring in industrial environments.
+
+Operating temperature range: -10°C to 70°C.
+Maximum supported humidity: 80%.
+
+Communication protocols:
+- Modbus TCP
+- MQTT
+
+The X100 is appropriate for applications requiring basic
+environmental temperature visibility and remote monitoring.

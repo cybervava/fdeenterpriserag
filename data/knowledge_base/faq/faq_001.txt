@@ -1,0 +1,24 @@
+NovaTech Product FAQ 1
+
+Q: Which NovaSense product supports advanced predictive
+maintenance?
+
+A: NovaSense X500 is designed for advanced predictive
+maintenance of industrial rotating equipment.
+
+Q: Which products support MQTT?
+
+A: MQTT is supported by multiple NovaSense products,
+including X100, X200, X500 and X700.
+
+Q: Can NovaSense products integrate with industrial
+systems?
+
+A: Supported products provide industrial communication
+options including OPC-UA, Modbus, MQTT and Ethernet.
+
+Q: What should customers verify before deployment?
+
+A: Customers should validate environmental,
+connectivity, security and application requirements
+against the selected product specification.

@@ -1,0 +1,19 @@
+NovaTech Product Comparison 24
+
+NovaSense X100 focuses primarily on environmental
+temperature monitoring.
+
+NovaSense X200 provides basic condition monitoring
+using vibration and temperature sensing.
+
+NovaSense X500 provides advanced predictive-maintenance
+capabilities for motors, pumps, compressors and other
+rotating equipment.
+
+NovaSense X700 is intended for enterprise-scale
+monitoring of critical industrial assets and provides
+higher-frequency acquisition and edge capabilities.
+
+Product selection should be based on monitoring
+requirements, integration requirements and deployment
+scale.

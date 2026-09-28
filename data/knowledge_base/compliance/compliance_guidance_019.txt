@@ -1,0 +1,19 @@
+NovaTech Compliance Guidance 19
+
+NovaTech industrial monitoring deployments may operate
+in regulated manufacturing environments.
+
+Organizations should consider access control, audit
+logging, data retention, network security and change
+management when deploying monitoring infrastructure.
+
+Pharmaceutical and other regulated environments may
+require additional validation and documented operating
+procedures.
+Compliance obligations depend on the customer's
+industry, jurisdiction and internal governance
+requirements.
+
+NovaTech solutions should therefore be deployed as part
+of the customer's broader compliance and security
+architecture.

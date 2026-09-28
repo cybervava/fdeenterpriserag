@@ -1,0 +1,28 @@
+NovaTech Industrial Solutions
+NovaSense X500 Technical Specification
+
+Product: NovaSense X500
+
+The NovaSense X500 is an advanced industrial predictive
+maintenance platform designed for monitoring rotating
+equipment including motors, pumps and compressors.
+
+Supported capabilities include:
+- Continuous vibration monitoring
+- Temperature monitoring
+- Anomaly detection
+- Predictive maintenance
+- Historical equipment-health trends
+
+Operating temperature range: -20°C to 90°C.
+Maximum supported humidity: 95%.
+Maximum vibration sampling rate: 20 kHz.
+
+Communication protocols:
+- OPC-UA
+- Modbus TCP
+- MQTT
+- Ethernet
+
+The X500 is commonly deployed in automotive,
+pharmaceutical, manufacturing and energy environments.

@@ -1,0 +1,19 @@
+NovaTech Industrial Solutions
+NovaSense X200 Technical Specification
+Product: NovaSense X200
+
+The NovaSense X200 provides basic industrial condition
+monitoring using vibration and temperature sensing.
+
+Operating temperature range: -20°C to 80°C.
+Maximum supported humidity: 90%.
+Maximum vibration sampling rate: 10 kHz.
+
+Communication protocols:
+- Modbus
+- MQTT
+- Ethernet
+
+The X200 is suitable for general condition-monitoring
+applications where basic vibration and temperature
+information is required.
