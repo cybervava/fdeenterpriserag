@@ -59,6 +59,30 @@ does the expected source appear anywhere in the Top-5 retrieved chunks? Record t
 actually get — failures are the input to the optimization phase (Step 12+), which should change
 one thing at a time and re-run this same evaluation.
 
+### Baseline RAG v1 results (2026-09-28)
+
+Retrieval (`scripts/11_evaluate_rag.py`): **Passed 2/5 — Retrieval Accuracy 40.0% (Hit@5)**
+
+| # | Question | Hit@5 | Top-5 actually filled by |
+|---|----------|-------|--------------------------|
+| 1 | Predictive maintenance of industrial motors | FAIL | `automotive_manufacturing_solution_*` ×4, `case_study_057` |
+| 2 | X500 operating temperature range | PASS | all 4 product specs (X500 at rank 1) + a comparison |
+| 3 | Large-scale monitoring of critical assets | FAIL | `energy_solution_*` ×5 |
+| 4 | Environmental temperature monitoring | FAIL | `product_comparison_*` ×5 |
+| 5 | Protocol for Siemens SCADA | PASS | `integration_guide_*` ×5 |
+
+Generation (manual check in `app.py`):
+
+- **Correctness:** all answers were correct (X500 for motors, `-20°C to 90°C`, X700 for large-scale
+  monitoring, X100 for environmental temperature, OPC-UA for Siemens SCADA). Tests 3 and 4 still got
+  correct answers because the near-duplicate comparison documents contain the same facts.
+- **Groundedness:** every answer cited `[Source N]`. "Which products support MQTT?" was only partly
+  answered (it named only the X500). The FAQ that lists X100/X200/X500/X700 was not in the Top-5.
+- **Abstention:** the warranty-period question correctly returned the "not enough information" response.
+
+Observed problem for Step 12+: many near-identical generated documents crowd the Top-5 and push the
+authoritative product specifications out of the results.
+
 ## Tests
 
 ```bash
